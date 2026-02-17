@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1746331751 source:c:\users\msi\documents\programc\cs2022034q2\cs2022034q2f1.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1746331744 source:c:\users\msi\documents\programc\cs2022034q2\cs2022034q2f3.c
+
+1746331833 source:c:\users\msi\documents\programc\cs2022034q2\cs2022034q2f2.c
+	<stdio.h>
+	<stdbool.h>
+
+1746331751 source:c:\users\msi\desktop\cs2022034\cs2022034q2\cs2022034q2f1.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1746331833 source:c:\users\msi\desktop\cs2022034\cs2022034q2\cs2022034q2f2.c
+	<stdio.h>
+	<stdbool.h>
+
+1746331887 source:c:\users\msi\desktop\cs2022034\cs2022034q2\cs2022034q2f3.c
+	<stdio.h>
+	<stdbool.h>
+
+1768478167 source:c:\users\msi\desktop\cs2022034q2\cs2022034q2f1.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+
+1768478167 source:c:\users\msi\desktop\cs2022034q2\cs2022034q2f2.c
+	<stdio.h>
+	<stdbool.h>
+
+1768478167 source:c:\users\msi\desktop\cs2022034q2\cs2022034q2f3.c
+	<stdio.h>
+	<stdbool.h>
+
