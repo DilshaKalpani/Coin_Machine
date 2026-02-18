@@ -1,7 +1,6 @@
 # Automatic Stamp Vending Machine Simulation
 ## Computer Science Undergraduate – C Programming Assignment
 
----
 
 ## Project Description
 
@@ -19,7 +18,6 @@ The machine:
 
 The system processes transactions, dispenses stamps, returns change (if possible), and handles exceptional conditions.
 
----
 
 ## Machine Specifications
 
@@ -45,7 +43,6 @@ The system processes transactions, dispenses stamps, returns change (if possible
   - No stamp available
   - No change available
 
----
 
 ## Program Features
 
@@ -63,7 +60,6 @@ The system processes transactions, dispenses stamps, returns change (if possible
   - Remaining coin quantities
 - Repeats transactions until the user chooses to quit
 
----
 
 
 ## Program Logic Summary
@@ -86,7 +82,6 @@ The system processes transactions, dispenses stamps, returns change (if possible
 6. Display updated quantities
 7. Repeat until user exits
 
----
 
 ## Restrictions Followed
 
@@ -95,7 +90,6 @@ The system processes transactions, dispenses stamps, returns change (if possible
 - Multi-file implementation
 - At least three sub-modules used
 
----
 
 ## Testing
 
@@ -107,7 +101,6 @@ The program was tested with multiple data sets including:
 - No stamp available
 - Successful transaction with change
 
----
 
 ## Technologies Used
 
@@ -115,11 +108,10 @@ The program was tested with multiple data sets including:
 - GCC Compiler / CodeBlocks
 - Multi-file modular programming
 
----
 
 ## Author
-Dilsha Kalpani
-Computer Science Undergraduate  
+
+Dilsha Kalpani  
 Assignment – Stamp Vending Machine Simulation  
 C Programming
 
