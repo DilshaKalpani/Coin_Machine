@@ -1,5 +1,5 @@
 # Automatic Stamp Vending Machine Simulation
-## Computer Science Undergraduate – C Programming Assignment
+## C Programming Assignment
 
 
 ## Project Description
