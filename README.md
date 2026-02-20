@@ -115,7 +115,7 @@ Dilsha Kalpani
 Assignment – Stamp Vending Machine Simulation  
 C Programming
 
-Final marks for the Assignment 90/100.
+Final marks I got for this Assignment 90/100.
 
 
 
